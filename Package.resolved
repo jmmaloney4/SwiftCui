@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-nio-ssl",
+        "repositoryURL": "https://github.com/jmmaloney4/termbox.git",
+        "state": {
+          "branch": "master",
+          "revision": "31c3e528ce8abab326da1290b032fae46b73068a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
